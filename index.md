@@ -89,9 +89,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions about this Privacy Policy or the extension, you can contact us:
 
-- **GitHub:** [ваш_username](https://github.com/ваш_username)
-- **Telegram:** [ваш_телеграм_никнейм]
-- **Email:** ваш_email@example.com
+- **GitHub:** [freedigestone](https://github.com/freedigestone)
+- **Telegram:** [@freedigest](https://t.me/freedigest)
+- **Email:** freedigest@gmai.com.com
 
 ---
 
